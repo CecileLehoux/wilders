@@ -1,0 +1,22 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wilder.js",
+  "scripts": {
+    "start": "node wilder.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CecileLehoux/wilders.git"
+  },
+  "author": "Cécile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CecileLehoux/wilders/issues"
+  },
+  "homepage": "https://github.com/CecileLehoux/wilders#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
